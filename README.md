@@ -1,6 +1,6 @@
-# NetBeans Settings For Laravel 4 Projects 
-### By Mike Jackson | mrjxn @ MrJxN.com | github.com/mrjxn
-## Description
+## NetBeans Settings For Laravel 4 Projects 
+#### By Mike Jackson | mrjxn @ MrJxN.com | github.com/mrjxn
+### Description
 
 NetBeans Settings for Laravel 4 Projects
 
@@ -19,7 +19,7 @@ NetBeans does not allow for independent export of each settings tab's sub-catego
     * Current Templates:
         * lrte - Route::{verb}({arg},function({arg}) { return {arg}; });
 
-## Installation
+### Installation
 
 Unzip each file to your \<userdir> location - by default, located at:
 
@@ -38,7 +38,7 @@ Unzip each file to your \<userdir> location - by default, located at:
 Ensure you unzip using the included directory structure to place the files in the correct place. 
 NetBeans uses non-unique file names for it's settings .xml files, differentiated only by directory location.
 
-## Notes
+### Notes
 
 I recommend creating multiple versions of your userdir when making settings changes, 
 especially when using dev/nightly versions of NetBeans. This ensures you can always easily revert to previous versions if you get lost.  
