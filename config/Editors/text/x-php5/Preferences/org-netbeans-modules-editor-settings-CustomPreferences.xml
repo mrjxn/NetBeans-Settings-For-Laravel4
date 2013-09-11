@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editor-preferences PUBLIC "-//NetBeans//DTD Editor Preferences 1.0//EN" "http://www.netbeans.org/dtds/EditorPreferences-1_0.dtd">
+<editor-preferences>
+    <entry javaType="java.lang.String" name="blankLinesAfterClassHeader" xml:space="preserve">
+        <value><![CDATA[1]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesAfterField" xml:space="preserve">
+        <value><![CDATA[0]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesAfterOpenPHPTag" xml:space="preserve">
+        <value><![CDATA[0]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesBeforeClassEnd" xml:space="preserve">
+        <value><![CDATA[1]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesBeforeClosePHPTag" xml:space="preserve">
+        <value><![CDATA[1]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesBeforeNamespace" xml:space="preserve">
+        <value><![CDATA[0]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="forBracePlacement" xml:space="preserve">
+        <value><![CDATA[NEW_LINE]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="ifBracePlacement" xml:space="preserve">
+        <value><![CDATA[NEW_LINE]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="methodDeclBracePlacement" xml:space="preserve">
+        <value><![CDATA[NEW_LINE]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="phpAutoCompletionFull" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="phpAutoCompletionNamespaces" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="phpAutoCompletionTypes" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="phpAutoCompletionVariables" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="phpCodeCompletionNonStaticMethods" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="phpCodeCompletionSmartParametersPreFilling" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="phpCodeCompletionSmartQuotes" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="phpCodeCompletionStaticMethods" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="phpCodeCompletionStringAutoConcatination" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="phpCodeCompletionType" xml:space="preserve">
+        <value><![CDATA[SMART]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="phpCodeCompletionVariablesScope" xml:space="preserve">
+        <value><![CDATA[ALL]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="placeElseOnNewLine" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="spaceAfterSemi" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="spaceAfterTypeCast" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapDoWhileStatement" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapForStatement" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapIfStatement" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="wrapStateMentsOnTheLine" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapWhileStatement" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+</editor-preferences>
