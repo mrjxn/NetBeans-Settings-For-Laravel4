@@ -7,10 +7,10 @@ NetBeans Settings for Laravel 4 Projects
 A collection of NetBeans 7.4 settings .xml files to assist in Laravel 4 project development. 
 NetBeans does not allow for independent export of each settings tab's sub-categories (e.g. Settings->Editor->Formatting->Language->PHP) so I am providing the following files separately to prevent overwriting unrelated settings, such as your formatting settings for other languages.  
  
-* #### PHP Formatting
+* #### PHP Formatting - Laravel 4 and PSR-2 Conforming Formatting Settings for PHP in NetBeans
 
         <userdir> /config/Editors/text/x-php5/Preferences/org-netbeans-modules-editor-settings-CustomPreferences.xml
-    * Note: Per bug report filed here: https://netbeans.org/bugzilla/show_bug.cgi?id=235710 '<?php namespace ...' formatting was unsupported prior to dev release 201309120002.  
+    * Note: Per bug report filed here: https://netbeans.org/bugzilla/show_bug.cgi?id=235710 the single line '<?php namespace ...' formatting was unsupported prior to dev release 201309120002.  
 The fix will likely be rolled into the 7.4 Final release
 
 * #### PHP Code Templates - WIP
