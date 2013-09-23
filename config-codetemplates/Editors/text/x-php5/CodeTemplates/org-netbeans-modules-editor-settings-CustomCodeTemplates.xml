@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE codetemplates PUBLIC "-//NetBeans//DTD Editor Code Templates settings 1.0//EN" "http://www.netbeans.org/dtds/EditorCodeTemplates-1_0.dtd">
+<codetemplates>
+    <codetemplate abbreviation="lrtec" xml:space="preserve">
+        <code><![CDATA[Route::${verb default="get"}('${pattern}',['before' => '${beforefilter}','after' => '${afterfilter}',
+${callback default="function()"} {
+${selection}${cursor}
+    ${return default="return View::make('hello');"}
+}]);
+]]></code>
+        <description><![CDATA[Laravel 4: Classy Route 
+by Mike Jackson | mrjxn@mrjxn.com]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="lrte" xml:space="preserve">
+        <code><![CDATA[Route::${verb default="get"}('${pattern}', ${callback default="function()"} {
+${selection}${cursor}
+${return default="return returnval;"}
+});]]></code>
+        <description><![CDATA[Laravel 4: Route 
+by Mike Jackson | mrjxn@mrjxn.com]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="lflt" xml:space="preserve">
+        <code><![CDATA[Route::${verb default="filter"}('${pattern}', '${filterclass}');]]></code>
+        <description><![CDATA[Laravel 4: Filter 
+by Mike Jackson | mrjxn@mrjxn.com]]></description>
+    </codetemplate>
+</codetemplates>
