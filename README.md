@@ -10,15 +10,18 @@ NetBeans does not allow for independent export of each settings tab's sub-catego
 * #### PHP Formatting - Laravel 4 and PSR-2 Conforming Formatting Settings for PHP in NetBeans
 
         <userdir> /config/Editors/text/x-php5/Preferences/org-netbeans-modules-editor-settings-CustomPreferences.xml
-    * Note: Per bug report filed here: https://netbeans.org/bugzilla/show_bug.cgi?id=235710 the single line '<?php namespace ...' formatting was unsupported prior to dev release 201309120002.  
-The fix will likely be rolled into the 7.4 Final release
+    * 9/19/13 - NetBeans dev release 201309191137 fixes the formatting bug introduced by the bugfix below.
+    * 9/12/13 - Note: Per bug report filed here: https://netbeans.org/bugzilla/show_bug.cgi?id=235710 the single line '<?php namespace ...' formatting was unsupported prior to dev release 201309120002.  
+    * The fix will likely be rolled into the 7.4 Final release
 
 * #### PHP Code Templates - WIP
 
         <userdir> /config/Editors/text/x-php5/CodeTemplates/org-netbeans-modules-editor-settings-CustomCodeTemplates.xml
     * Usage: After import, just type the shortcut then press tab (or alternative, if so customized) to begin the step-by-step autocomplete process (pressing enter after each argument) 
     * Current Templates:
-        * lrte - Route::{verb}({arg},function({arg}) { return {arg}; });
+        * lrte - Basic Callback Route
+        * lrtec - Class Based Route
+        * lflt - Basic Filter
 
 ### Installation
 
